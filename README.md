@@ -23,5 +23,5 @@ make prog
 
 ```bash
 make prog
-./prog ./prog examples/input.dat output.bmp 10 5 0
+./prog examples/input.dat output.bmp 10 5 0
 ```
