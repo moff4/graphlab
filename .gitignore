@@ -1,0 +1,10 @@
+.idea/
+prog
+*build*
+*debug*
+*.txt
+*.tmp
+*.o
+*.so
+*.a
+*.bmp
